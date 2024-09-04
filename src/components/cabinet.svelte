@@ -2,7 +2,7 @@
 import Cabinet from  "$lib/images/cabinet.png";
 </script>
 
-<div class="overflow-hidden rounded-3xl shadow-2xl w-[370px]">
+<div class="overflow-hidden rounded-3xl shadow-2xl w-[16rem]">
     <img id="img-cabinet" src="{Cabinet}" alt="">
 </div>
 
