@@ -2,9 +2,9 @@
     import Statue from "$lib/images/statue.png"
 </script>
 
-<div id="citation" class="overflow-hidden p-8 rounded-3xl shadow-2xl relative bg-light-green">
+<div id="citation" class="overflow-hidden p-8 lg:rounded-3xl lg:shadow-xl relative bg-light-green">
    
-    <img id="statue" src="{Statue}" alt="statue en pierre d'un moine boudhiste">
+    <img id="statue" src="{Statue}" class="w-48 lg:w-60" alt="statue en pierre d'un moine boudhiste">
     <blockquote>
         <p> La vie commence parfois par des brouillons</p>
          <p>On l’écrit </p>
@@ -19,7 +19,6 @@
 
 <style type="scss">
     #citation{
-        min-width: 24rem;
         line-height: 3rem;
         font-size: 26px;
         font-style: italic;
