@@ -2,7 +2,7 @@
     import  SvgDoctolib from "$lib/images/doctolib.svelte" 
 </script>
 
-<div id="tarifs" class="flex flex-col grow shrink-0  lg:basis-96 p-8 lg:rounded-3xl lg:shadow-2xl bg-[#f7f7f3]">
+<div id="tarifs" class="flex flex-col grow shrink-0 lg:order-3 lg:basis-[27rem] p-8  lg:rounded-3xl lg:shadow-2xl bg-[#f7f7f3]">
     <h2 class="text-2xl mb-4 underline">Tarification</h2>
     <ul class="shrink-0 grow text-lg">
         <li class="mb-2"><span class="font-bold">Consultation/suivi en psychologie ou TCC: </span><span>70€</span></li>

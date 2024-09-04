@@ -8,7 +8,7 @@
 </script>
 
 <AccessibilityDyslexic
-    class="absolute font-openDyslexy top-0 text-dark-green underline"
+    class="absolute font-openDyslexy top-1 left-1 text-dark-green underline"
 />
 <div class="flex flex-col  lg:gap-8 lg:flex-row">
     <Presentation />

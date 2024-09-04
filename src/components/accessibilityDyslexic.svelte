@@ -15,5 +15,5 @@ function toggleFont() {
 </script>
 
 <button on:click={toggleFont} {...$$props}>
-    Aide dyslexie Aa
+   Accès en cas de dyslexie
   </button>

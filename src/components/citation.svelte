@@ -14,7 +14,7 @@
          <p>Et puis un jour</p>
          <p>On rend sa copie</p>
      </blockquote>
-     <p class="text-dark-green text-xl">- Laurence Maron</p>
+     <p class="text-dark-green text-xl">- Laurence Maron -</p>
 </div>
 
 <style type="scss">
