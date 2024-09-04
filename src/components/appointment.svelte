@@ -4,7 +4,7 @@
 
 <div class="p-8 rounded-3xl shadow-2xl">
     <h2 class="text-2xl mb-4 underline">Consultations</h2>
-    <p>Je vous reçois ou votre enfant (à partir de l’âge de 3 ans) du lundi au samedi, à mon
-        cabinet situé au 2 rue Charles à Montgeron ou à distance, pour les personnes ne
-        pouvant se déplacer et souhaitant tout de même pouvoir s’engager dans une thérapie ou étant en recherche de soutien.</p>
+    <p>Je vous re&ccedil;ois ou votre enfant (&agrave; partir de l&rsquo;&acirc;ge de 3 ans) du lundi au samedi, &agrave; mon
+        cabinet situ&eacute; au 2 rue Charles &agrave; Montgeron ou &agrave; distance, pour les personnes ne
+        pouvant se d&eacute;placer et souhaitant tout de m&ecirc;me pouvoir s&rsquo;engager dans une th&eacute;rapie ou &eacute;tant en recherche de soutien.</p>
 </div>

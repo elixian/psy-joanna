@@ -3,7 +3,8 @@ export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
     fontFamily:{
-      roboto : ['Roboto Condensed','sans-serif']
+      roboto : ['Roboto Condensed','sans-serif'],
+      openDyslexy : ['Open Dyslexic', 'sans-serif']
     },
     extend: {
       colors:{

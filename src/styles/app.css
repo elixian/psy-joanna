@@ -4,10 +4,40 @@
 
 @layer base {
     :root{
+        --base-family:"Roboto Condensed";
         --dark-green:#468705;
     }
+    @font-face {
+		font-family: 'Open Dyslexic';
+		src: local('Open Dyslexic'), local('Open-Dyslexic'), local('open dyslexic'), local('open-dyslexic'),
+			url('/fonts/open_dyslexic/OpenDyslexic-Regular.otf');
+		font-weight: normal;
+		font-display: swap;
+	}
+    @font-face {
+		font-family: 'Open Dyslexic';
+		src: local('Open Dyslexic'), local('Open-Dyslexic'), local('open dyslexic'), local('open-dyslexic'),
+			url('/fonts/open_dyslexic/OpenDyslexic-bold.otf');
+		font-weight: bold;
+		font-display: swap;
+	}
+    @font-face {
+		font-family: 'Open Dyslexic';
+		src: local('Open Dyslexic'), local('Open-Dyslexic'), local('open dyslexic'), local('open-dyslexic'),
+			url('/fonts/open_dyslexic/OpenDyslexicAlta-Regular.otf');
+		font-weight: 200;
+		font-display: swap;
+	}
+    @font-face {
+		font-family: 'Open Dyslexic';
+		src: local('Open Dyslexic'), local('Open-Dyslexic'), local('open dyslexic'), local('open-dyslexic'),
+			url('/fonts/open_dyslexic/OpenDyslexicAlta-Italic.otf');
+		font-weight: 200;
+		font-display: swap;
+	}
+
     html {
-      font-family: "Roboto Condensed", system-ui, sans-serif;
+      font-family: var(--base-family), system-ui, sans-serif;
       font-optical-sizing: auto;
     }
   }
