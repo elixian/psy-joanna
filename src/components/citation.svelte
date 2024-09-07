@@ -4,7 +4,7 @@
 
 <div id="citation" class="overflow-hidden p-8 lg:rounded-3xl lg:shadow-xl relative bg-light-green">
    
-    <img id="statue" src="{Statue}" class="w-48 lg:w-60" alt="statue en pierre d'un moine boudhiste">
+    <img id="statue" src="{Statue}" class="w-48 -z-10 lg:w-60" alt="statue en pierre d'un moine boudhiste">
     <blockquote>
         <p> La vie commence parfois par des brouillons</p>
          <p>On l’écrit </p>
@@ -22,7 +22,7 @@
         line-height: 3rem;
         font-size: 26px;
         font-style: italic;
-
+        isolation: isolate;
     }
     blockquote{
         line-height: 2.6rem;
@@ -48,6 +48,6 @@
         position: absolute;
         bottom: -32px;
         right: -23px;
-        z-index: 0;
+
     }
 </style>
