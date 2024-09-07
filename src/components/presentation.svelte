@@ -2,7 +2,7 @@
 <script>
     import jw from "$lib/images/joanna-wolna.png";
 </script>
-<div  class="card-prez pt-12  p-2 *:p-2 lg:rounded-3xl  lg:shadow-xl ">
+<div  class="card-prez pt-12  p-6 *:p-2 lg:rounded-3xl  lg:shadow-xl ">
     <h1 class="mb-1 text-6xl  font-thin tracking-tight text-dark-green  ">Joanna Wolna</h1>
     <div class="flex flex-col lg:gap-12 lg:flex-row">
         <div>
