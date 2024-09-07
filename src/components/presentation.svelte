@@ -3,7 +3,7 @@
     import jw from "$lib/images/joanna-wolna.png";
 </script>
 <div  class="card-prez pt-12  p-2 *:p-2 lg:rounded-3xl  lg:shadow-xl ">
-    <h1 class="mb-1 text-5xl  font-thin tracking-tight text-gray-900 ">Joanna Wolna</h1>
+    <h1 class="mb-1 text-5xl  font-thin tracking-tight text-dark-green ">Joanna Wolna</h1>
     <div class="flex flex-col lg:gap-12 lg:flex-row">
         <div>
             <p class="font-normal ">Psychologue, dipl&ocirc;m&eacute;e de l&rsquo;Universit&eacute; Ren&eacute;-Descartes, et &eacute;galement sophrologue,

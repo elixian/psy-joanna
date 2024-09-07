@@ -29,14 +29,14 @@
         color:var(--dark-green);
     }
     blockquote::before{
-        content: open-quote;
+        content: "\201C";
         font-size: 59px;
         position: absolute;
         left: 5px;
         color: var(--dark-green);
     }
     blockquote::after{
-        content: close-quote;
+        content: "\201D";
         font-size: 59px;
         position: absolute;
         bottom: 51px;
