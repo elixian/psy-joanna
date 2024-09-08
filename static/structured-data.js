@@ -2,8 +2,8 @@ const jsonLdData = {
     "@context": "https://schema.org",
     "@type": "Psychologist",
     "name": "Joanna Wolna",
-    "url": "https://joanna-wolna-psychologue.netlify.app/",
-    "image": "https://joanna-wolna-psychologue.netlify.app/images/joanna-wolna.png",
+    "url": "https://joanna-wolna-psy.netlify.app/",
+    "image": "https://joanna-wolna-psy.netlify.app/images/joanna-wolna.png",
     "description": "Joanna wolna Psychologue (TCC)/ Sophrologue",
     "address": {
       "@type": "PostalAddress",
