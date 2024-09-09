@@ -1,6 +1,7 @@
 
 <script>
     import jw from "$lib/images/joanna-wolna.png";
+
 </script>
 <div  class="card-prez pt-12  p-6 *:p-2 lg:rounded-3xl  lg:shadow-xl ">
     <h1 class="mb-1 text-6xl  font-thin tracking-tight text-dark-green  ">Joanna Wolna</h1>
@@ -42,11 +43,13 @@
     .bloc_photo::before{
         content:"";
         position:absolute;
-        width:40px;
+        width:52px;
         aspect-ratio: 1;
         background-color: #53990e;
-        border-radius: 9999px;
+        background:url('../lib/images/leaf-svgrepo-com.svg') ;
+        background-size: 52px;
+    background-repeat: no-repeat;
         right: 24px;
-        top: -13px;
+    top: -29px;
     }
 </style>
